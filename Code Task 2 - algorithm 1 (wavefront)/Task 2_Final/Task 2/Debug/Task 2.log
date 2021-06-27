@@ -1,0 +1,13 @@
+﻿  robo_world2.c
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robo_world2.c(200): warning C4018: '<': signed/unsigned mismatch
+  robot_GoodCodePreachers.c
+  Generating Code...
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robot_goodcodepreachers.c(422): warning C4716: 'Algorithm': must return a value
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robot_goodcodepreachers.c(403): warning C4716: 'NewArray': must return a value
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robot_goodcodepreachers.c(440): warning C4716: 'up': must return a value
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robot_goodcodepreachers.c(500): warning C4716: 'backward': must return a value
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robot_goodcodepreachers.c(461): warning C4716: 'down': must return a value
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robot_goodcodepreachers.c(481): warning C4716: 'forward': must return a value
+c:\users\saiko\documents\github\prototyping\code task 2\task 2_final\task 2\robo_world2.c(111): warning C4715: 'update_world': not all control paths return a value
+  Task 2.vcxproj -> C:\Users\saiko\Documents\GitHub\Prototyping\Code Task 2\Task 2_Final\Debug\Task 2.exe
+  Task 2.vcxproj -> C:\Users\saiko\Documents\GitHub\Prototyping\Code Task 2\Task 2_Final\Debug\Task 2.pdb (Full PDB)
