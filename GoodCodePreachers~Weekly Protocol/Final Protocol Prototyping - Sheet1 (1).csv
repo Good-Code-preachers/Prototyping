@@ -1,0 +1,49 @@
+,,Tasks(Rescue Robot),,,,Comment
+Members,,Attended (Y/N),Tasks,,,
+Saikot Das,Joy,Y,(1) Final Requirement diagram,,,
+,,,(2) Final Use case diagram,,,
+,,,(3) Subsystem refinement and Architecture,,,done together with Manoj Luitel 
+,,,(4) Initial wheel designs (hydrolic wheels & spring suspension),,,Finally not added to the final design due to dimension problem to fit to the main robot body
+,,,(5) Final wheel design & assembly,,,done together with Manoj Luitel 
+,,,(6)Fully working all programming tasks  with wavefront approach(indicated as primary approach),,,Manoj helped me to complete this task
+,,,(7) Final  Documentation,,,All team members worked together
+,,,(8) Preparation of ppt slides,,,All team member worked together
+,,,,,,
+Patrick Stephen,Eteng,Y,(1) Activity Diagram,,,The diagram was completed and approved by the Professor
+,,,(2) Subsystem and Component Architecture Pattern,,,Hieracchical Control Pattern was employed here
+,,,(3) Designing of Jet Ski Propeller and Rudder,,,Done together with Evrard
+,,,(4) Final Jet Ski Assembly,,,Done together wirh Evrard
+,,,(5) Programming Algorithm Secondary Approach ,,,Done together with Aditya and Moaz
+,,,(6) Final Documentaion Compilation,,,All team members worked together
+,,,(7) Preparation of ppt slides,,,All team members worked together
+,,,,,,
+Muhammad Moaz,Amin,Y,(1) Constraint Diagram,,,
+,,,(2) Initial Robotic Arm design,,,Not added due to mating problems and scaling issue
+,,,(3) Final Robotic Arm,,,Done by watching Youtube tutorials and dimensioning it according to our scale with different mating relationships.
+,,,(4) Programming Algorithm Secondary Approach ,,,I and Stephen helped Aditiya in his Algorithm(Secondary).
+,,,(5) Final Documentaion Compilation,,,All team members worked together
+,,,(6) Preparation of ppt slides,,,All team members worked together
+,,,,,,
+Aditya,Kumar,Y,(1)  Developed Block diagram by researching in the filed of system engineering ,,,The task was completed and present to the professor.
+,,,(2) Worked on development the main fraim of the robot and the chassis.,,,The task was very tedious as we were very inexperience in solid works and we had to make many versions
+,,,(3) Developed the Cassis.The final version is 5th attempt on the development of the body.,,,The task was completed and presented to professor.
+,,,(4) Worked and assembled the final assembly of the robot. ,,,The task was completed and presented to professor.
+,,,"(4) Worked on the second algorithm based on quadrant system. Task1, Task 2, Task 3, Task 4.",,,Worked with Moaz and Stepen of the algo. The tasked was completed and presented to professor.
+,,,(5) Final Documentaion Compilation,,,The task was completed and present to the professor.
+,,,(6) Preparation of ppt slides,,,The task was completed and presented to professor.
+,,,,,,
+Manoj,Luitel,Y,(1) Requirement Diagram: initial ,,,Finally updated later for improvement
+,,,(2) Block definition Diagram,,,
+,,,(3) Subsystem refinement and Architecture,,,Together with Saikot Das Joy 
+,,,"(4) 3D Parts Design: Motor, Wheel and Assembly",,,Together with Saikot Das Joy 
+,,,(5) Programming Algorithm Primary Approach,,,Together with Saikot Das Joy 
+,,,"(6) Documentation: Requirement Specification, Motor-wheel and Programming",,,Worked Together with all the group members
+,,,(7) Slides for final Presentation,,,Worked Together with all the group members
+,,,,,,
+Evrard,Leuteu Feukeu,Y,(1) Initial Use-case diagram                                                                                                         ,,,Not considered because it was too similar to the Activity diagram
+,,,(2) Robot concept idea and initial design prototype                                  ,,,Done on Thinkercard but not considered because it was too complicated to print in 3D
+,,,(3) Designing Jet-ski propeller and Rudder(Solid woks),,,Together with patrick
+,,,(4) Final Assembly,,,Together with patrick
+,,,(5) Programming Algorithm (primary) approach,,,Assisted Saikot and Manoj on primary algorithm
+,,,(6) Final IEEE documentation                                                                            ,,,All team members worked on it
+,,,(7) preparation of ppt slides                                                                        ,,,All team members worked on it
